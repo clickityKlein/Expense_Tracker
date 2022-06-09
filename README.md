@@ -41,7 +41,7 @@ In a realistic statement, the Transaction ID column is much too arbitrary to per
 - Cost
 - Credit vs. Debit
 
-This gives us more actionable data to perform analysis on.
+This gives us more actionable data to perform analysis on. It should also be noted that the Local Name datafield is meant to the recognizable, branded name of the businesss.
 
 ![Export Example](Images/export_example.png)
 
