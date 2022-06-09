@@ -71,6 +71,6 @@ After specifying the locations, when the user runs the program, anytime there is
 ![Export Example](Images/input_example.png)
 
 
-For purposes of this repository, two statements with partially randomly generated data were prepared, and the program was run for the "05_31_2022" statement and then the 06_30_2022 statement. The progression of the runs can found in the supporting documents above in the folders "Master_Files_Example" and "Exports_Example".
+For purposes of this repository, two statements with partially randomly generated data were prepared, and the program was run for the "05_31_2022" statement and then the "06_30_2022" statement. The progression of the runs can found in the supporting documents above in the folders "Master_Files_Example" and "Exports_Example".
 
 [Table of Contents](#table-of-contents)
